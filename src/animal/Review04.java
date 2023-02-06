@@ -28,8 +28,8 @@ public class Review04 {
 
         for(int i=0; i<al.size(); i++) {
             al.get(i).say();
-            al.get(i).think();*/
-        }
+            al.get(i).think();
+        }*/
 
 
     }
